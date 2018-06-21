@@ -1,0 +1,15 @@
+﻿@model ArmyList
+
+<h1> Edit @Model.Name</h1>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+    </div>
+    <span asp-validation-for="Name"></span>
+    <input type="submit" name="save" value="Save" />
+</form>

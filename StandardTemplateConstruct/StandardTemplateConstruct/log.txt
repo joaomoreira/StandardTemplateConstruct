@@ -1,0 +1,59 @@
+2018-06-21 14:00:35.394 +02:00 [INF] User profile is available. Using 'C:\Users\Joao Moreira\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-06-21 14:00:36.809 +02:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:51517/  0
+2018-06-21 14:00:36.809 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/  
+2018-06-21 14:00:37.041 +02:00 [INF] Request finished in 236.6154ms 200 
+2018-06-21 14:00:37.172 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-21 14:00:40.448 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+2018-06-21 14:00:40.725 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) in 3555.4917ms
+2018-06-21 14:00:40.734 +02:00 [INF] Request finished in 3931.062ms 200 text/html; charset=utf-8
+2018-06-21 14:00:40.877 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 14:00:40.881 +02:00 [INF] Request finished in 4.173ms 200 text/plain
+2018-06-21 14:22:22.294 +02:00 [INF] User profile is available. Using 'C:\Users\Joao Moreira\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-06-21 14:22:22.947 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/  
+2018-06-21 14:22:22.947 +02:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:51517/  0
+2018-06-21 14:22:22.984 +02:00 [INF] Request finished in 42.4083ms 200 
+2018-06-21 14:22:23.139 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-21 14:22:25.847 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+2018-06-21 14:22:26.100 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) in 2969.9162ms
+2018-06-21 14:22:26.112 +02:00 [INF] Request finished in 3170.7389ms 200 text/html; charset=utf-8
+2018-06-21 14:22:26.264 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 14:22:26.266 +02:00 [INF] Request finished in 2.3836ms 200 text/plain
+2018-06-21 14:25:13.147 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/Home/Create  
+2018-06-21 14:25:13.156 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-21 14:25:13.562 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Create.cshtml.
+2018-06-21 14:25:13.654 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) in 498.24060000000003ms
+2018-06-21 14:25:13.654 +02:00 [INF] Request finished in 506.8498ms 200 text/html; charset=utf-8
+2018-06-21 14:25:13.770 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 14:25:13.771 +02:00 [INF] Request finished in 0.4134ms 200 text/plain
+2018-06-21 14:25:19.634 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:51517/Home/Create application/x-www-form-urlencoded 201
+2018-06-21 14:25:19.715 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) with arguments (["StandardTemplateConstruct.Models.ArmyList"]) - ModelState is "Valid"
+2018-06-21 16:12:21.949 +02:00 [INF] User profile is available. Using 'C:\Users\Joao Moreira\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-06-21 16:12:22.778 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/  
+2018-06-21 16:12:22.778 +02:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:51517/  0
+2018-06-21 16:12:22.822 +02:00 [INF] Request finished in 48.5108ms 200 
+2018-06-21 16:12:23.059 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-21 16:12:26.054 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+2018-06-21 16:12:26.343 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) in 3300.021ms
+2018-06-21 16:12:26.364 +02:00 [INF] Request finished in 3591.6835ms 200 text/html; charset=utf-8
+2018-06-21 16:12:26.554 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 16:12:26.557 +02:00 [INF] Request finished in 3.4503ms 200 text/plain
+2018-06-21 16:12:32.008 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/Home/Create  
+2018-06-21 16:12:32.022 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-21 16:12:32.349 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Create.cshtml.
+2018-06-21 16:12:32.405 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) in 382.9286ms
+2018-06-21 16:12:32.405 +02:00 [INF] Request finished in 397.6112ms 200 text/html; charset=utf-8
+2018-06-21 16:12:32.521 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 16:12:32.521 +02:00 [INF] Request finished in 0.3926ms 200 text/plain
+2018-06-21 16:12:36.434 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:51517/Home/Create application/x-www-form-urlencoded 201
+2018-06-21 16:12:36.502 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) with arguments (["StandardTemplateConstruct.Models.ArmyList"]) - ModelState is "Valid"
+2018-06-21 16:12:36.506 +02:00 [INF] Logged on user
+2018-06-21 16:12:36.519 +02:00 [INF] Executing RedirectResult, redirecting to /Home/Details/3.
+2018-06-21 16:12:36.520 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Create (StandardTemplateConstruct) in 63.1571ms
+2018-06-21 16:12:36.520 +02:00 [INF] Request finished in 86.6894ms 302 
+2018-06-21 16:12:36.526 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/Home/Details/3  
+2018-06-21 16:12:36.530 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Details (StandardTemplateConstruct) with arguments (["3"]) - ModelState is "Valid"
+2018-06-21 16:12:36.674 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Details.cshtml.
+2018-06-21 16:12:36.688 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Details (StandardTemplateConstruct) in 159.0781ms
+2018-06-21 16:12:36.688 +02:00 [INF] Request finished in 161.9669ms 200 text/html; charset=utf-8
+2018-06-21 16:12:36.770 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-21 16:12:36.771 +02:00 [INF] Request finished in 0.3941ms 200 text/plain

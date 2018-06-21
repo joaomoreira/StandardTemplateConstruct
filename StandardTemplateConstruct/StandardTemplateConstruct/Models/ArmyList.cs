@@ -8,7 +8,7 @@ namespace StandardTemplateConstruct.Models
     public class ArmyList
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
         public IList<Unit> Units { get; set; }
     }
 }

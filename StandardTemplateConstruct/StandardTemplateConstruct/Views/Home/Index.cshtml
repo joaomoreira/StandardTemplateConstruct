@@ -1,0 +1,9 @@
+﻿@model StandardTemplateConstruct.ViewModels.IndexViewModel
+
+<h1>All Lists</h1>
+@foreach (var list in Model.ArmyLists)
+{
+    @Html.Partial("_ArmyListSummary", list)
+}
+<br>
+<div><a asp-action="Create">New List</a></div>
