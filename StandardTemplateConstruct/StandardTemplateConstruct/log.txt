@@ -57,3 +57,18 @@
 2018-06-21 16:12:36.688 +02:00 [INF] Request finished in 161.9669ms 200 text/html; charset=utf-8
 2018-06-21 16:12:36.770 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
 2018-06-21 16:12:36.771 +02:00 [INF] Request finished in 0.3941ms 200 text/plain
+2018-06-25 11:03:37.974 +02:00 [INF] User profile is available. Using 'C:\Users\Joao Moreira\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2018-06-25 11:03:38.916 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/  
+2018-06-25 11:03:38.916 +02:00 [INF] Request starting HTTP/1.1 DEBUG http://localhost:51517/  0
+2018-06-25 11:03:38.967 +02:00 [INF] Request finished in 58.3543ms 200 
+2018-06-25 11:03:39.258 +02:00 [INF] Executing action method StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) with arguments (null) - ModelState is "Valid"
+2018-06-25 11:03:39.391 +02:00 [INF] Entity Framework Core 2.0.3-rtm-10026 initialized 'StandardTemplateConstructDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2018-06-25 11:03:39.599 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Name]
+FROM [ArmyLists] AS [r]
+ORDER BY [r].[Name]
+2018-06-25 11:03:42.460 +02:00 [INF] Executing ViewResult, running view at path /Views/Home/Index.cshtml.
+2018-06-25 11:03:42.789 +02:00 [INF] Executed action StandardTemplateConstruct.Controllers.HomeController.Index (StandardTemplateConstruct) in 3628.6883000000003ms
+2018-06-25 11:03:42.798 +02:00 [INF] Request finished in 3891.265ms 200 text/html; charset=utf-8
+2018-06-25 11:03:42.974 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:51517/favicon.ico  
+2018-06-25 11:03:42.978 +02:00 [INF] Request finished in 3.3986ms 200 text/plain
